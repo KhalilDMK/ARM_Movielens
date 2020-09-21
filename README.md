@@ -10,8 +10,12 @@ In this notebook, we perform an Exploratory Data Analysis (EDA) on the Movielens
 
 * <b>Association rules on movies:</b>
 
-
+<p align="center">
+  <img src="https://github.com/KhalilDMK/ARM_Movielens/blob/master/Images/example_AR_movies.PNG" width="600">
+</p>
 
 * <b>Association rules on genres:</b>
 
-
+<p align="center">
+  <img src="https://github.com/KhalilDMK/ARM_Movielens/blob/master/Images/example_AR_genres.PNG" width="600">
+</p>
